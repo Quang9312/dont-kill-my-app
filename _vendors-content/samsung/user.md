@@ -1,6 +1,5 @@
----
-manufacturer: samsung
-
+manufacturer manufacturer: 
+samsung
 ---
 
 ## What optimization apps does Samsung have?
